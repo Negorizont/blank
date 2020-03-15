@@ -1,5 +1,5 @@
 <template>
-  <header class="footer"></header>
+  <footer class="footer"></footer>
 </template>
 
 <script>
